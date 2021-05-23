@@ -1,1 +1,1 @@
-# Designing-a-chess-game-using-c-
+# Designing-a-chess-game-using-c++
